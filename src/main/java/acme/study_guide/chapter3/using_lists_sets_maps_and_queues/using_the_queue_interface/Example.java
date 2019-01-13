@@ -12,5 +12,13 @@ public class Example {
         System.out.println(queue.poll()); // 10
         System.out.println(queue.poll()); // 4
         System.out.println(queue.peek()); // null
+
+        ArrayDeque<Integer> stack = new ArrayDeque<>();
+        stack.push(10);
+        stack.push(4);
+        System.out.println(stack.peek()); // 4
+        System.out.println(stack.poll()); // 4
+        System.out.println(stack.poll()); // 10
+        System.out.println(stack.peek()); // null
     }
 }
