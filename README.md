@@ -6,3 +6,7 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809).
 
 * [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Apache Maven 3.5.0+](https://maven.apache.org/download.cgi)
+
+## Interesting examples
+
+* (Easy) [acme.study_guide.chapter3.review_questions.question18.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter3/review_questions/question18/Example.java) class
