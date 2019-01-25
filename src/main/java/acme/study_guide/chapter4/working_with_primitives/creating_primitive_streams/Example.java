@@ -1,4 +1,4 @@
-package acme.study_guide.chapter4.using_streams.using_common_intermediate_operations.creating_primitive_streams;
+package acme.study_guide.chapter4.working_with_primitives.creating_primitive_streams;
 
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
