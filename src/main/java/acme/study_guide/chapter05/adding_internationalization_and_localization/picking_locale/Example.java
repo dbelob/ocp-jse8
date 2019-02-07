@@ -1,4 +1,4 @@
-package acme.study_guide.chapter05.adding_internationalization_and_localization;
+package acme.study_guide.chapter05.adding_internationalization_and_localization.picking_locale;
 
 import java.util.Locale;
 
