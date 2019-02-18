@@ -4,10 +4,6 @@ import java.sql.SQLException;
 import java.time.format.DateTimeParseException;
 
 public class Example {
-    public static void main(String[] args) {
-        //...
-    }
-
     public void parseData() throws SQLException, DateTimeParseException {
     }
 
