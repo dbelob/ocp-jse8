@@ -1,4 +1,4 @@
-package acme.study_guide.chapter07.working_with_parallel_streams.understanding_performance_improvements;
+package acme.study_guide.chapter07.working_with_parallel_streams.processing_tasks_in_parallel.understanding_performance_improvements;
 
 import java.util.ArrayList;
 import java.util.List;
