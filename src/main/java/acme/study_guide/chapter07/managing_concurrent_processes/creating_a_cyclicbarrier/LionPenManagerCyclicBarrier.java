@@ -17,7 +17,7 @@ public class LionPenManagerCyclicBarrier {
             c2.await();
             addAnimals(number);
         } catch (InterruptedException | BrokenBarrierException e) {
-// Handle checked exceptions here
+            // Handle checked exceptions here
         }
     }
     public static void main(String[] args) {
