@@ -32,6 +32,12 @@
                             <directory>logs</directory>
                             <followSymlinks>false</followSymlinks>
                         </fileset>
+                        <fileset>
+                            <directory>.</directory>
+                            <includes>
+                                <include>*.log</include>
+                            </includes>
+                        </fileset>
                     </filesets>
                 </configuration>
             </plugin>
@@ -51,7 +57,7 @@
     <dependencies>
         <dependency>
             <groupId>org.apache.derby</groupId>
-            <artifactId>derbyclient</artifactId>
+            <artifactId>derby</artifactId>
             <version>${derby.version}</version>
         </dependency>
     </dependencies>
