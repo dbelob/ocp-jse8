@@ -1,0 +1,19 @@
+package acme.study_guide.chapter10.review_questions.question19;
+
+import java.sql.*;
+
+public class Example {
+    public static void main(String[] args) throws SQLException {
+        String sql = "select * from animal";
+        try (Connection conn = DriverManager.getConnection("jdbc:derby:zoo");
+             Statement stmt = conn.createStatement(
+                     ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
+             ResultSet rs = stmt.executeQuery(sql)) {
+            System.out.println(rs.absolute(0));
+            System.out.println(rs.absolute(5));
+            System.out.println(rs.previous());
+            System.out.println(rs.relative(-2));
+            System.out.println(rs.relative(-100));
+        }
+    }
+}
