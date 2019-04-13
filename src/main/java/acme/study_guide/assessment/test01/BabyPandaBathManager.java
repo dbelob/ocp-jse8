@@ -12,8 +12,8 @@ public class BabyPandaBathManager {
         }
     }
     public static void main(String[] args) {
-        final CyclicBarrier cb = new CyclicBarrier(3,()-> System.out.
-                println("Clean!"));// u1
+        final CyclicBarrier cb = new CyclicBarrier(3,()->
+                System.out.println("Clean!"));// u1
         ExecutorService service = Executors.newScheduledThreadPool(2);
         IntStream.iterate(1, i-> 1) // u2
                 .limit(12)
