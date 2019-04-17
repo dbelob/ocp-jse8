@@ -1,6 +1,6 @@
 package acme.study_guide.chapter03.review_questions.question18;
 
-//Which of the following lines can be inserted to make the code compile? (Choose all that apply.)
+// Which of the following lines can be inserted to make the code compile? (Choose all that apply.)
 class A {}
 class B extends A {}
 class C extends B {}

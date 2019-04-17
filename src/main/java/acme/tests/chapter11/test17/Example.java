@@ -3,7 +3,7 @@ package acme.tests.chapter11.test17;
 import java.util.ArrayList;
 import java.util.Collection;
 
-//How many lines of the main method fail to compile?
+// How many lines of the main method fail to compile?
 public class Example {
     static interface Vehicle {
     }
