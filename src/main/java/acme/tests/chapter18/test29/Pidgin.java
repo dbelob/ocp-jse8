@@ -9,7 +9,7 @@ public class Pidgin {
             byte[] data = new byte[123];
             int chirps;
             while((chirps = is.read(data))>0) {
-                os.write(data);
+//                os.write(data);
                 os.write(data, 0, chirps);
             }}
     }
