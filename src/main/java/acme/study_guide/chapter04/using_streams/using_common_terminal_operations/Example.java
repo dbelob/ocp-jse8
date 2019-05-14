@@ -1,10 +1,8 @@
 package acme.study_guide.chapter04.using_streams.using_common_terminal_operations;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
-import java.util.TreeSet;
+import java.util.*;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Example {
@@ -71,5 +69,13 @@ public class Example {
         TreeSet<String> set = stream.collect(TreeSet::new, TreeSet::add,
                 TreeSet::addAll);
         System.out.println(set); // [f, l, o, w]
+
+        /* Stream<String> */ stream = Stream.of("w", "o", "l", "f");
+        /* TreeSet<String> */ set = stream.collect(Collectors.toCollection(TreeSet::new));
+        System.out.println(set); // [f, l, o, w]
+
+        /* Stream<String> */ stream = Stream.of("w", "o", "l", "f");
+        Set<String> set1 = stream.collect(Collectors.toSet());
+        System.out.println(set1); // [f, w, l, o]
     }
 }
