@@ -8,7 +8,7 @@ public class WhaleDataCalculator {
         try {
             Thread.sleep(10);
         } catch (InterruptedException e) {
-// Handle interrupted exception
+            // Handle interrupted exception
         }
         return input + 1;
     }
