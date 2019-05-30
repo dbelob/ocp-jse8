@@ -12,3 +12,4 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809).
 * (Easy) [acme.study_guide.chapter03.review_questions.question18.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter03/review_questions/question18/Example.java) class
 * (Easy) [acme.tests.chapter11.test17.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter11/test17/Example.java) class
 * (Easy) [acme.tests.chapter12.test07.Matrix](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter12/test07/Matrix.java) class
+* (Tough) [acme.enthuware.standard_tests.test1.test02.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test1/test02/Example.java) class
