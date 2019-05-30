@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 // How many lines of the main method fail to compile?
+// (after deleting comment characters in five lines)
 public class Example {
     static interface Vehicle {
     }
