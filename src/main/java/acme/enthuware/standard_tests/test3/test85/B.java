@@ -1,6 +1,7 @@
 package acme.enthuware.standard_tests.test3.test85;
 
 // Consider the following code:
+// (after deleting comment characters in static main method)
 class A
 {
     A() {  print();   }
@@ -11,8 +12,8 @@ class B extends A
     int i = Math.round(3.5f);
     public static void main(String[] args)
     {
-        A a = new B();
-        a.print();
+//        A a = new B();
+//        a.print();
     }
     void print() { System.out.println(i); }
 }

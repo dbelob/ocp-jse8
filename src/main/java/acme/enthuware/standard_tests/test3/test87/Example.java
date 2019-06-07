@@ -8,6 +8,6 @@ public class Example {
         StringBuilder val2 = new StringBuilder("world");
         UnaryOperator<String> uo1 = s1 -> s1.concat(val1); //1
         UnaryOperator<String> uo2 = s -> s.toUpperCase(); //2
-        System.out.println(uo1.apply(uo2.apply(val2))); //3
+//        System.out.println(uo1.apply(uo2.apply(val2))); //3
     }
 }
