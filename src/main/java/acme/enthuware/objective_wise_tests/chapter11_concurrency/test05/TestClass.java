@@ -1,4 +1,4 @@
-package acme.enthuware.objective_wise_tests.chapter11_concurrency;
+package acme.enthuware.objective_wise_tests.chapter11_concurrency.test05;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package acme.enthuware.objective_wise_tests.chapter08_nio2;
+package acme.enthuware.objective_wise_tests.chapter08_nio2.test05;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
