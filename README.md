@@ -16,3 +16,4 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809).
 * (Very Tough) [acme.enthuware.standard_tests.test1.test72.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test1/test72/Example.java) class
 * (Real Brainer) [acme.enthuware.standard_tests.test2.test63.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test2/test63/Example.java) class
 * (Real Brainer) [acme.enthuware.standard_tests.test3.test85.B](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test3/test85/B.java) class
+* (Very Easy) [acme.enthuware.objective_wise_tests.chapter08_io_fundamentals.test03.TestClass](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/objective_wise_tests/chapter08_io_fundamentals/test03/TestClass.java) class
