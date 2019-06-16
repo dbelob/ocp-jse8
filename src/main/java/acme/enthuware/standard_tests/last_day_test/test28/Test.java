@@ -22,17 +22,17 @@ class Test {
 }
 // You had to select 1 option
 //
-// A
+// A.
 // 1 0 0
 //
-// B
+// B.
 // 1 2 0
 //
-// C
+// C.
 // 1 2 3
 //
-// D
+// D.
 // 0 0 0
 //
-// E
+// E.
 // It will not compile.

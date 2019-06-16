@@ -19,25 +19,25 @@ public class Example {
         //result = doIt(in);
     }
 }
-// A
+// A.
 // ArrayList<String> in;
 // List<CharSequence> result;
 //
-// B
+// B.
 // List<String> in;
 // List<Object> result;
 //
-// C
+// C.
 // ArrayList<String> in;
 // List result;
 //
-// D
+// D.
 // List<CharSequence> in;
 // List<CharSequence> result;
 //
-// E
+// E.
 // ArrayList<Object> in;
 // List<CharSequence> result;
 //
-// F
+// F.
 // None of these.

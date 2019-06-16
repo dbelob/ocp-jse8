@@ -27,24 +27,24 @@ public class TestClass {
 }
 // Yo had to select 1 option
 //
-// A
+// A.
 // It will not compile.
 //
-// B
+// B.
 // It will throw an exception at run time.
 //
-// C
+// C.
 // 10 21
 // 10 21
 //
-// D
+// D.
 // 10 21
 // 10 20
 //
-// E
+// E.
 // 10 21
 // 0 20
 //
-// F
+// F.
 // 10 21
 // 0 21

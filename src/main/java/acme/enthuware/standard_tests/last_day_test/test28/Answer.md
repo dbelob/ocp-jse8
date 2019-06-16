@@ -1,5 +1,7 @@
 # Explanation
 
+B.
+
 Rule is: If evaluation of an argument expression completes abruptly, no part of any argument expression to its right is evaluated.
 
 Initially, the values of i1, i2, i3 are all 0;

@@ -1,5 +1,7 @@
 # Explanation
 
+C.
+
 The input parameter has been specified as List<E>, where E has to be some class that extends CharSequence. So ArrayList<String>, List<String>, or List<CharSequence> are all valid as reference types for 'in'.
 
 The output type of the method has been specified as List<? super E> , which means that it is a List that contains objects of some class that is a super class of E. Here, E will be typed to whatever is being used for 'in'. For example, if you declare ArrayList<String> in, E will be String.
