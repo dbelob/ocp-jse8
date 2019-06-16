@@ -15,11 +15,11 @@ public class Example {
     public static void main(String[] args) {
         Bus bus = new Bus();
 
-//        System.out.println(null instanceof Bus);
-//        System.out.println(bus instanceof Vehicle);
-//        System.out.println(bus instanceof Bus);
-//        System.out.println(bus instanceof ArrayList);
-//        System.out.println(bus instanceof Collection);
+//        System.out.println(null instanceof Bus);          // line 17
+//        System.out.println(bus instanceof Vehicle);       // line 18
+//        System.out.println(bus instanceof Bus);           // line 19
+//        System.out.println(bus instanceof ArrayList);     // line 20
+//        System.out.println(bus instanceof Collection);    // line 21
     }
 }
 // A. One
