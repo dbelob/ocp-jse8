@@ -12,8 +12,8 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809).
  № | Toughness | Question | Answer
 :-: | :-------: | -------- | ------
  1  | Easy | See [acme.study_guide.chapter03.review_questions.question18.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter03/review_questions/question18/Example.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter03/review_questions/question18/Answer.md)
- 2  | Easy | See [acme.tests.chapter11.test17.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter11/test17/Example.java) class |
- 3  | Easy | See [acme.tests.chapter12.test07.Matrix](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter12/test07/Matrix.java) class |
+ 2  | Easy | See [acme.tests.chapter11.test17.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter11/test17/Example.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter11/test17/Answer.md)
+ 3  | Easy | See [acme.tests.chapter12.test07.Matrix](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter12/test07/Matrix.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/tests/chapter12/test07/Answer.md)
  4  | Tough | See [acme.enthuware.standard_tests.test1.test02.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test1/test02/Example.java) class |
  5  | Very Tough | See [acme.enthuware.standard_tests.test1.test72.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test1/test72/Example.java) class |
  6  | Real Brainer | See [acme.enthuware.standard_tests.test2.test63.Example](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test2/test63/Example.java) class |
