@@ -14,13 +14,11 @@
 
         <clean.plugin.version>3.1.0</clean.plugin.version>
         <compiler.plugin.version>3.7.0</compiler.plugin.version>
-        <jar.plugin.version>3.1.0</jar.plugin.version>
 
         <derby.version>10.14.2.0</derby.version>
     </properties>
 
     <build>
-        <finalName>twitter-emulation</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
