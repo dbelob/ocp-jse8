@@ -23,4 +23,8 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809) exam.
 
 ## Previous
 
-[OCA Java SE 8 experiments](https://github.com/dbelob/oca-jse8)
+* [OCA Java SE 8 experiments](https://github.com/dbelob/oca-jse8)
+
+## Next
+
+* [OCP Java SE 11 experiments](https://github.com/dbelob/ocp-jse11)
