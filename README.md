@@ -21,7 +21,7 @@ Small parts of the code for *OCP Java SE 8* (1Z0-809) exam.
  8  | Very Easy | See [acme.enthuware.objective_wise_tests.chapter08_io_fundamentals.test03.TestClass](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/objective_wise_tests/chapter08_io_fundamentals/test03/TestClass.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/objective_wise_tests/chapter08_io_fundamentals/test03/Answer.md)
  9  | Very Tough | See [acme.enthuware.standard_tests.standard_tests.last_day_test.test28.Test](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test28/Test.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test28/Answer.md)
 
-## Full list
+## Full exam list
 
 1. [OCA Java SE 8 experiments](https://github.com/dbelob/oca-jse8)
 2. OCP Java SE 8 experiments (this repository)
